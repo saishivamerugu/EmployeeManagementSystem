@@ -5,12 +5,30 @@
 <meta charset="UTF-8">
 <title>Employees</title>
 <style>
-    body { font-family: Arial, sans-serif; margin: 30px; }
-    table { border-collapse: collapse; width: 100%; }
-    th, td { border: 1px solid black; padding: 8px; text-align: center; }
-    th { background-color: #f2f2f2; }
-    a { text-decoration: none; color: blue; }
-    marquee { color: green; font-weight: bold; }
+    body { 
+        font-family: Arial, sans-serif; 
+        margin: 30px; 
+    }
+    table { 
+        border-collapse: collapse;     
+        width: 100%; 
+    }
+    th, td { 
+        border: 1px solid black;     
+        padding: 8px; 
+        text-align: center;     
+    }
+    th { 
+        background-color: #f2f2f2; 
+    }
+    a { 
+        text-decoration: none; 
+        color: blue;     
+    }
+    marquee { 
+        color: green;     
+        font-weight: bold; 
+        }
 </style>
 </head>
 <body>
@@ -47,3 +65,4 @@
 <hr>
 </body>
 </html>
+
