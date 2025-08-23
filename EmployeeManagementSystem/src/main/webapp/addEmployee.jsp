@@ -6,9 +6,16 @@
 <meta charset="UTF-8">
 <title>Add Employee</title>
 <style>
-    body { font-family: Arial, sans-serif; margin: 30px; }
-    input { padding: 5px; margin: 5px; }
-    h1 { color: blue; }
+    body { 
+        font-family: Arial, sans-serif; 
+        margin: 30px; 
+    }
+    input { 
+        padding: 5px; 
+        margin: 5px; }
+    h1 { 
+        color: blue; 
+    }
 </style>
 </head>
 <body>
@@ -23,3 +30,4 @@
 </form>
 </body>
 </html>
+
